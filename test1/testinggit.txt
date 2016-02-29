@@ -1,1 +1,2 @@
 this is second file for git tutorial.
+second line for merging the branch to master of git.
